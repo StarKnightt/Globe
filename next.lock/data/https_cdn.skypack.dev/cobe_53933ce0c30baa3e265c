@@ -1,0 +1,16 @@
+/*
+ * Skypack CDN - cobe@0.6.3
+ *
+ * Learn more:
+ *   📙 Package Documentation: https://www.skypack.dev/view/cobe
+ *   📘 Skypack Documentation: https://www.skypack.dev/docs
+ *
+ * Pinned URL: (Optimized for Production)
+ *   ▶️ Normal: https://cdn.skypack.dev/pin/cobe@v0.6.3-Q6K1EGiYvzYD96Sn0bg1/mode=imports/optimized/cobe.js
+ *   ⏩ Minified: https://cdn.skypack.dev/pin/cobe@v0.6.3-Q6K1EGiYvzYD96Sn0bg1/mode=imports,min/optimized/cobe.js
+ *
+ */
+
+// Browser-Optimized Imports (Don't directly import the URLs below in your application!)
+export * from '/-/cobe@v0.6.3-Q6K1EGiYvzYD96Sn0bg1/dist=es2019,mode=imports/optimized/cobe.js';
+export {default} from '/-/cobe@v0.6.3-Q6K1EGiYvzYD96Sn0bg1/dist=es2019,mode=imports/optimized/cobe.js';

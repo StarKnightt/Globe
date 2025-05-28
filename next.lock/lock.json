@@ -1,0 +1,6 @@
+{
+  "https://cdn.skypack.dev/-/cobe@v0.6.3-Q6K1EGiYvzYD96Sn0bg1/dist=es2019,mode=imports/optimized/cobe.js": { "integrity": "sha512-GVqbgDoV7Xr90b27LKkCCVo7yPfXSAzU2gEnVGGqjCKv330Njm+Nk0PPVBcjk9rg9TJa/UIzh9ArE6xDdUVf5A==", "contentType": "application/javascript; charset=utf-8" },
+  "https://cdn.skypack.dev/-/phenomenon@v1.6.0-hzLV7oDD11oqmnDrrdT2/dist=es2019,mode=imports/optimized/phenomenon.js": { "integrity": "sha512-hvtacGwS8nG5kwXDBpVxXt1dl+GkKeH6P5djgCNSHs58DbYvKjAepQ7l/k5IjwiSq7mqJBS4s26M+w4x8zWYMg==", "contentType": "application/javascript; charset=utf-8" },
+  "https://cdn.skypack.dev/cobe": { "integrity": "sha512-T7ysHEUUPIjFk+hzfRok3dWa6USgqGB3S/glO13EufXbifpI9DTy4Mf2AwWyagWyYxs1yRRWFoSiCWRXj0fAxw==", "contentType": "application/javascript; charset=utf-8" },
+  "version": 1
+}
