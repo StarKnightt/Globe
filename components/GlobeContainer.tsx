@@ -18,7 +18,6 @@ export default function GlobeContainer() {
   const toggleRotation = () => {
     setIsRotating(!isRotating);
   };
-
   return (
     <div 
       ref={containerRef} 
